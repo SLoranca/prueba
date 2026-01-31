@@ -1,7 +1,9 @@
-"avisoDePrivacidad": {
-    "admin": {
-        "titulo":"XXXX",
-        "texto": "prueba"
-        "fecha": "15 de agosto de 2025"
+{
+    "avisoDePrivacidad": {
+        "admin": {
+            "titulo":"XXXX",
+            "texto": "prueba"
+            "fecha": "15 de agosto de 2025"
+        }
     }
 }
